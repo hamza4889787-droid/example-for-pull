@@ -1,0 +1,8 @@
+.landing-logo {
+  font-size: clamp(40px, 5vh, 52px); /* Scales based on height */
+  font-weight: 900;
+  margin: 0;
+  letter-spacing: -1px;
+  font-family: 'Arial Rounded MT Bold', 'Helvetica Rounded', Arial, sans-serif;
+  flex-shrink: 0;
+}
